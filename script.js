@@ -1,5 +1,3 @@
-
-
 //----------------------------------------------------------------------------------------------EX01
 
 const firstN = document.querySelector('#firstname');
@@ -61,3 +59,6 @@ pwdConfirm.addEventListener('keyup', e =>{
 })
 
 //----------------------------------------------------------------------------------------------EX04
+
+constdarkMode = document.querySelector('#toggle-darkmode');
+
