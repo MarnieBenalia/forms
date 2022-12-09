@@ -62,3 +62,6 @@ pwdConfirm.addEventListener('keyup', e =>{
 
 constdarkMode = document.querySelector('#toggle-darkmode');
 
+constdarkMode.addEventListener('change', e =>{
+
+})
